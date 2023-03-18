@@ -44,7 +44,7 @@
     "babel-preset-modern-browsers": "9.0.2",
     "babel-preset-react": "6.11.1",
     "babel-register": "6.24.1",
-    "enzyme": "2.4.1",
+    "enzyme": "2.9.1",
     "karma": "6.4.1",
     "karma-chrome-launcher": "1.0.1",
     "karma-cli": "1.0.1",
