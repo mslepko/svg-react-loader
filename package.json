@@ -30,7 +30,7 @@
   "dependencies": {
     "css": "^3.0.0",
     "loader-utils": "^3.2.1",
-    "ramda": "^0.28.0",
+    "ramda": "^0.29.0",
     "rx": "^4.1.0",
     "traverse": "^0.6.7",
     "xml2js": "^0.4.23"
@@ -48,7 +48,7 @@
     "enzyme": "3.11.0",
     "json5": "^2.2.3",
     "karma": "6.4.1",
-    "karma-chrome-launcher": "3.1.1",
+    "karma-chrome-launcher": "3.2.0",
     "karma-cli": "2.0.0",
     "karma-mocha": "2.0.1",
     "karma-mocha-reporter": "2.2.5",
